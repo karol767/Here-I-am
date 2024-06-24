@@ -25,6 +25,6 @@
 
 ![Backend Roadmap](./img/Senior%20Data%20analyst-2022-06-05.jpg)
 
-### 7/23/2023
+### 7/23/2023   I'm here.
 
 ![Backend Roadmap](./img/Data%20Scientist-2023-07-23.jpg)
