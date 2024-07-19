@@ -26,3 +26,7 @@
 ### 7/23/2023   I'm here.
 
 ![Backend Roadmap](./img/Data%20Scientist-2023-07-23.jpg)
+
+### 7/19/2024 Real Time Communication Problem in PythonDash
+
+![Backend Roadmap](./img/Python%20Dash%20Archietecture.png)
